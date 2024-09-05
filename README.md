@@ -5,14 +5,15 @@ Here's my [website](https://gnoxnahte.com) for more info ([redesigning the websi
 
 ## Skills
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=astro,angular,svelte,postgres)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=astro,angular,svelte,postgres" title="Astro, Angular, Svelte, PostGres"/>
+
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp,cs)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,ts,cpp,cs" title="HTML, CSS, TypeScript, C++, C#"/>
+
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=unity,obsidian,github)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=unity,obsidian,github" title="Unity, Obsidian, GitHub"/>
 
 ## Current Projects
-<hr>
 
 ### Obsidian AutoEmbed
 [![GitHub manifest version](https://img.shields.io/github/manifest-json/v/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/releases)
@@ -22,27 +23,24 @@ Here's my [website](https://gnoxnahte.com) for more info ([redesigning the websi
 
 Links: [GitHub](https://github.com/GnoxNahte/obsidian-auto-embed), [Obsidian plugin download](https://obsidian.md/plugins?id=auto-embed), [User download graph](https://nevernotmove.github.io/obsidian-stats/plugin/auto-embed)
 
-Obsidian plugin to help embed links automatically instead of using iframes.
+The plugin automatically embeds links without using iframes, keeping the raw notes clean. It uses the same syntax as [Obsidian's embed syntax](https://help.obsidian.md/Editing+and+formatting/Embed+web+pages). You can customise the embeds with options like size and theme too.
 
-Works seamslessly with how [Obsidian implements embeds](https://help.obsidian.md/Editing+and+formatting/Embed+web+pages), even using the same syntax. Has additional options like setting the size and theme.
 <hr>
 
 ### Redesigned Portfolio website (WIP)
 Links: [GitHub](https://github.com/GnoxNahte/portfolio-main), [Website](https://gnoxnahte.dev)
 
-Why I want to rebuild the website:
-- It was my first website, which resulted in messy code.
-- Don’t really like the styles of it, especially the dull colors.
-- Want to separate between web dev and game dev. Maybe have different themes for each site? Thinking of web dev being a modern website and game dev be a website with some gaming elements added. Something like: https://bruno-simon.com/
+A complete redesign from scratch with new colours. I might separate the projects and information further, separating the "game dev" and "web dev", having different themes for both of them.
 
-For comparision, my [previous website](https://gnoxnahte.com)
+For comparison, my [previous website](https://gnoxnahte.com)
 
 <hr>
 
-## Contact
-[![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FGnoxNahteDev&size=square)](https://x.com/GnoxNahteDev)
-[![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=gnoxnahte.dev%40gmail.com&size=square)](mailto:gnoxnahte.dev@gmail.com)
-[![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fethanongsg%2F&size=square)](https://www.linkedin.com/in/ethanongsg/)
+## Socials
+[![Twitter/X Profile: @GnoxNahteDev](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FGnoxNahteDev&size=square)](https://x.com/GnoxNahteDev)
+[![Email: gnoxnahte.dev@gmail.com](https://bentos.jkominovic.dev/api/v1/bento-cards?url=gnoxnahte.dev%40gmail.com&size=square)](mailto:gnoxnahte.dev@gmail.com)
+[![Itch.io Profile: GnoxNahteDev](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siItchdotio&subtitle=GnoxNahteDev&size=square)](https://gnoxnahtedev.itch.io/)
+[![LinkedIn Profile: ethanongsg](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fethanongsg%2F&size=square)](https://www.linkedin.com/in/ethanongsg/)
 
 ## Credits
 Websites used in this README:
@@ -52,18 +50,3 @@ Websites used in this README:
 
 ## Fun fact
 My username, GnoxNahte is my name (Ethan Ong) in reverse, with `x` instead of `<space>`
-
-<!--
-**GnoxNahte/GnoxNahte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
