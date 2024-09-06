@@ -5,7 +5,7 @@ Here's my [website](https://gnoxnahte.com) for more info ([redesigning the websi
 
 ## Skills
 ### Web
-<img src="https://skillicons.dev/icons?i=astro,angular,svelte,postgres" title="Astro, Angular, Svelte, PostGres"/>
+<img src="https://skillicons.dev/icons?i=astro,angular,svelte,postgres" title="Astro, Angular, Svelte, PostgreSQL"/>
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=html,css,ts,cpp,cs" title="HTML, CSS, TypeScript, C++, C#"/>
@@ -49,4 +49,4 @@ Websites used in this README:
 - Bento cards for social contacts: https://bentos.jkominovic.dev
 
 ## Fun fact
-My username, GnoxNahte is my name (Ethan Ong) in reverse, with `x` instead of `<space>`
+My username, **GnoxNahte**, is my name **Ethan Ong** in reverse, with `x` instead of `<space>`
