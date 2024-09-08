@@ -20,6 +20,7 @@ Here's my [website](https://gnoxnahte.com) for more info ([redesigning the websi
 [![GitHub last commit](https://img.shields.io/github/last-commit/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/commits/main/)
 [![GitHub Open Issues](https://img.shields.io/github/issues/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/issues)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/issues?q=is%3Aissue+is%3Aclosed)
+[![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22auto-embed%22%5D.downloads&logo=obsidian&logoColor=a88bfa&label=downloads&color=a88bfa)](https://obsidian.md/plugins?id=auto-embed)
 
 Links: [GitHub](https://github.com/GnoxNahte/obsidian-auto-embed), [Obsidian plugin download](https://obsidian.md/plugins?id=auto-embed), [User download graph](https://nevernotmove.github.io/obsidian-stats/plugin/auto-embed)
 
