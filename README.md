@@ -24,6 +24,18 @@ Here's my [website](https://gnoxnahte.dev) for more info.
 
 ## Current Projects
 
+### [Portfolio website](https://github.com/GnoxNahte/portfolio-main)
+[![Website status](https://img.shields.io/website?url=https%3A%2F%2Fgnoxnahte.dev)](https://gnoxnahte.dev)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gnoxnahte/portfolio-main)](https://github.com/GnoxNahte/portfolio-main/commits/main/)
+
+Relevant Links: [Website](https://gnoxnahte.dev)
+
+![Projects page](https://github.com/user-attachments/assets/b07ddd10-f2b2-4f70-9e24-800db71e3b4f)
+
+A website to **show employers and recruiters projects** I've done and am doing. It has various features like project filtering and an automatic table of contents. Its **content is in markdown**, making it **easy to edit in the future**. It's also quick to load and has nice animations.
+
+<hr>
+
 ### [Obsidian AutoEmbed](https://github.com/GnoxNahte/obsidian-auto-embed)
 [![GitHub manifest version](https://img.shields.io/github/manifest-json/v/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/commits/main/)
@@ -31,19 +43,26 @@ Here's my [website](https://gnoxnahte.dev) for more info.
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/gnoxnahte/obsidian-auto-embed)](https://github.com/GnoxNahte/obsidian-auto-embed/issues?q=is%3Aissue+is%3Aclosed)
 [![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22auto-embed%22%5D.downloads&logo=obsidian&logoColor=a88bfa&label=downloads&color=a88bfa)](https://obsidian.md/plugins?id=auto-embed)
 
-Links: [Download link](https://obsidian.md/plugins?id=auto-embed), [User download graph](https://nevernotmove.github.io/obsidian-stats/plugin/auto-embed)
+Links: [Download link](https://obsidian.md/plugins?id=auto-embed), [User download graph](https://www.moritzjung.dev/obsidian-stats/plugins/auto-embed/#downloads)
 
-The plugin automatically embeds links without using iframes, keeping the raw notes clean. It uses the same syntax as [Obsidian's embed syntax](https://help.obsidian.md/Editing+and+formatting/Embed+web+pages). You can customise the embeds with options like size and theme too.
+The plugin automatically embeds links without using iframes, keeping the raw notes clean. It uses the same syntax as [Obsidian's embed syntax](https://help.obsidian.md/Editing+and+formatting/Embed+web+pages). Users can customise the embeds with options like size and theme too.
+
+My first public open-source project, learnt how to handle issues, bugs and feature requests from users.
 
 <hr>
 
-### [Portfolio website](https://github.com/GnoxNahte/portfolio-main)
-[![Website status](https://img.shields.io/website?url=https%3A%2F%2Fgnoxnahte.dev)](https://gnoxnahte.dev)
-[![GitHub last commit](https://img.shields.io/github/last-commit/gnoxnahte/portfolio-main)](https://github.com/GnoxNahte/portfolio-main/commits/main/)
+### [Obsidian Tab Panels](https://github.com/GnoxNahte/obsidian-tab-panels) (Another Obsidian plugin, just released!). 
+[![GitHub manifest version](https://img.shields.io/github/manifest-json/v/gnoxnahte/obsidian-tab-panels)](https://github.com/GnoxNahte/obsidian-tab-panels/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gnoxnahte/obsidian-tab-panels)](https://github.com/GnoxNahte/obsidian-tab-panels/commits/main/)
+[![GitHub Open Issues](https://img.shields.io/github/issues/gnoxnahte/obsidian-tab-panels)](https://github.com/GnoxNahte/obsidian-tab-panels/issues)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/gnoxnahte/obsidian-tab-panels)](https://github.com/GnoxNahte/obsidian-tab-panels/issues?q=is%3Aissue+is%3Aclosed)
+[![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22tab-panels%22%5D.downloads&logo=obsidian&logoColor=a88bfa&label=downloads&color=a88bfa)](https://obsidian.md/plugins?id=tab-panels)
 
-Relevant Links: [Website](https://gnoxnahte.dev)
+Links: [Download link](https://obsidian.md/plugins?id=tab-panels), [User download graph](https://www.moritzjung.dev/obsidian-stats/plugins/tab-panels/#downloads)
 
-A website to show employers and recruiters projects I've done and am doing. Has various features like project filtering and cool theme switching. It's also quick to load and has nice animations.
+![Obsidian Tab Panels Preview image](https://github.com/user-attachments/assets/cad4a211-8c3a-4b16-af9b-c389da3f65bb)
+
+Allows users to easily create tab panels to organize content into sections.
 
 <hr>
 
